@@ -13,3 +13,6 @@ I hope to play the role of a **backend developer** in the game dev field.
 - 🌱 I’m currently learning how to make a game using Unity
 - 🤔 I’m looking for help with Rust
 
+---
+
+
