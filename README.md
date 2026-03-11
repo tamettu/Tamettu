@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**tamettu/Tamettu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tamettu, I'm recently learning game dev for finding a job about game dev. 🥺🥺🥺
 
-Here are some ideas to get you started:
+I hope to play the role of a **backend developer** in the game dev field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- 📝 I learned C#, Python, and Rust
+  - C#: Proficient in C# basics, exploring .NET memory management
+  - Python: Basic scripting
+  - Rust: Wrestling with the Borrow Checker
+- 💪 The programming language I'm most familiar with is C#
+- 🌱 I’m currently learning how to make a game using Unity
+- 🤔 I’m looking for help with Rust
+
