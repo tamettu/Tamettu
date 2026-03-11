@@ -5,6 +5,7 @@ I'm Tamettu, I'm recently learning game dev for finding a job about game dev. ğŸ
 I hope to play the role of a **backend developer** in the game dev field.
 
 ---
+
 - ğŸ“ I learned C#, Python, and Rust before
   - C#: Proficient in C# basics, exploring .NET memory management
   - Python: Basic scripting
