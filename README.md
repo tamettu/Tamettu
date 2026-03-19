@@ -25,3 +25,10 @@ I hope to play the role of a **backend developer** in the game dev field.
 ---
 ### ☎️Connect with me
 - **Discord**: ![DiscordID](https://img.shields.io/badge/kimikuzu:9726-8A2BE2)
+
+---
+### 🎯Current Project
+[Game Link](https://github.com/tamettu/Learn-Unity)
+  - a movable character
+  - a camera that follow the player position
+
