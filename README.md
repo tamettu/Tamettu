@@ -28,7 +28,7 @@ I hope to play the role of a **backend developer** in the game dev field.
 
 ---
 ### 🎯Current Project
-[Game Link](https://github.com/tamettu/Learn-Unity)
+[A Simple Unity Game](https://github.com/tamettu/Learn-Unity)
   - a movable character
   - a camera that follow the player position
 
